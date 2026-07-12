@@ -27,3 +27,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fARHYZ3pV)
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlbarFahrezi/AlbarFahrezi/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
