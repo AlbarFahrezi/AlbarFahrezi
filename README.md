@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Everyone My Full Name Is Albar Fahrezi 👋
 
 ### 💻 Tech Stack
 
