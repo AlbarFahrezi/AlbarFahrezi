@@ -1,7 +1,6 @@
 ## Hi Everyone My Full Name Is Albar Fahrezi 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Developer;AI+Enthusiast)](https://git.io/typing-svg)
 
-<img src="https://github-profile-trophy.vercel.app/?username=AlbarFahrezi&theme=onedark"/>
 ---
 <img src="https://komarev.com/ghpvc/?username=AlbarFahrezi"/>
 ---
