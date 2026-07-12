@@ -1,8 +1,8 @@
-## Hi Everyone My Full Name Is Albar Fahrezi 👋
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A5ACD,100:00C9FF&text=Albar%20Fahrezi&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Developer;AI+Enthusiast)](https://git.io/typing-svg)
 
