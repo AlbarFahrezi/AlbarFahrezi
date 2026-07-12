@@ -2,6 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Developer;AI+Enthusiast)](https://git.io/typing-svg)
 
 ---
+<img src="https://komarev.com/ghpvc/?username=AlbarFahrezi"/>
+---
 ### 💻 Tech Stack
 
 #### Languages & Core
