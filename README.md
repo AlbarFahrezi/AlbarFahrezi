@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Developer;AI+Enthusiast)](https://git.io/typing-svg)
 
 <p align="center">
-<img src="https://tenor.com/id/view/coding-hello-world-c-programming-programming-gif-21075258" width="500"/>
+<img src="https://media.tenor.com/uYP_Nkq8VPsAAAAM/coding-hello-world.gif" width="500"/>
 </p>
 
 ---
