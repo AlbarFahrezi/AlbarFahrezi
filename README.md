@@ -10,6 +10,7 @@
 
 ---
 <img src="https://komarev.com/ghpvc/?username=AlbarFahrezi"/>
+
 ---
 ### 💻 Tech Stack
 
