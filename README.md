@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=550&lines=Fullstack+Developer;AI+%26+Machine+Learning+Enthusiast;Cybersecurity+Learner+%7C+Ethical+Hacking;Vocational+High+School+Student+%F0%9F%87%AE%F0%9F%87%A9"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=550&lines=Fullstack+Developer;AI+%26+Machine+Learning+Enthusiast;Cybersecurity+Learner+%7C+Ethical+Hacking;Vocational+High+School+Student"/>
 </p>
 
 <p align="center">
@@ -25,7 +23,7 @@ albar@kali:~$ cat profile.json
   "name"      : "Albar Fahrezi",
   "role"      : "Fullstack Developer",
   "status"    : "Vocational High School (SMK) Student",
-  "location"  : "Subang, Indonesia 🇮🇩",
+  "location"  : "Subang, Indonesia",
   "learning"  : ["Docker", "Linux", "AI/ML", "Next.js", "SQL Injection", "Nmap"],
   "building"  : "Web apps & security labs",
   "mindset"   : "Build it. Break it (legally). Secure it."
@@ -84,41 +82,14 @@ Building my portfolio, sharing what I learn, and open to opportunities & collabs
 #### 🔐 Security Learning (Lab Use Only)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-C00000?style=for-the-badge&logo=gnometerminal&logoColor=white)
-![SQL Injection](https://img.shields.io/badge/SQL_Injection-Learning-8B0000?style=for-the-badge&logo=databricks&logoColor=white)
+![SQL Injection](https://img.shields.io/badge/SQL_Injection-Learning-8B0000?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlbarFahrezi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbarFahrezi&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+## 📊 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlbarFahrezi&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlbarFahrezi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15"/>
-</p>
-
----
-
-## ⏱️ Weekly Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GANTI_USERNAME_WAKATIME&theme=tokyonight&hide_border=true&layout=compact"/>
-</p>
-
----
-
-## 🎧 Currently Vibing To
-
-<p align="center">
-  <a href="https://open.spotify.com/user/GANTI_SPOTIFY_ID">
-    <img src="GANTI_LINK_DARI_SPOTIFY_GITHUB_PROFILE"/>
-  </a>
 </p>
 
 ---
@@ -131,26 +102,6 @@ Building my portfolio, sharing what I learn, and open to opportunities & collabs
   <a href="https://www.instagram.com/rzexxtr/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://discord.gg/fARHYZ3pV"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
-
----
-
-## 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AlbarFahrezi/AlbarFahrezi/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlbarFahrezi&theme=github-dark&hide_border=true"/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=100&section=footer"/>
