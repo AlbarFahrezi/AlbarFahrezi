@@ -21,7 +21,7 @@ albar-fahrezi
 albar@kali:~$ cat profile.json
 {
   "name"      : "Albar Fahrezi",
-  "role"      : "Fullstack Developer",
+  "role"      : "Penetration Tester",
   "status"    : "Vocational High School (SMK) Student",
   "location"  : "Subang, Indonesia",
   "learning"  : ["Docker", "Linux", "AI/ML", "Next.js", "SQL Injection", "Nmap"],
